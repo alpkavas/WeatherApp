@@ -5,7 +5,7 @@
 ### [Demo](https://weathercity-app.netlify.app/) 
 
 Not: Kendi API-KEY'lerinizi kullanmak için  kaynak dosyalarının dışında bir `.env` dosyası oluşturun 
- -  [openwather](https://api.openweathermap.org) için`VITE_REACT_APP_WEATHER_API_KEY : YOUR_API_KEY` 
+ -  [openweather](https://api.openweathermap.org) için`VITE_REACT_APP_WEATHER_API_KEY : YOUR_API_KEY` 
  - [pixabay](https://pixabay.com/) için `VITE_REACT_APP_PICTURE_API_KEY: YOUR_API_KEY`
 şeklinde kendi keylerinizle uygulamayı kullabilirsiniz.
 
